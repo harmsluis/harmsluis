@@ -1,12 +1,14 @@
 <div align="center">
   <h1 align="center">Hi there! I'm <a href="https://github.com/harmsluis">Luiggi Werner</a> 👋</h1>
-  <h3 align="center">A passionate developer from Argentina helping small and medium businesses scale and digitalize with AI tools</h3>
+  <h3 align="center">AI-focused developer from Argentina helping small and mid-sized businesses streamline operations and scale through digital solutions</h3>
+  <h4 align="center">Construyo soluciones con inteligencia artificial para que las pymes trabajen mejor, más rápido y puedan crecer sin complicarse</h4>
 </div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/harmsluis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiggi werner" height="30" width="40" /></a>
 <a href="https://instagram.com/luiggi_werner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luiggi werner" height="30" width="40" /></a>
+<a href="mailto:harmsluis@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="luiggi werner" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
